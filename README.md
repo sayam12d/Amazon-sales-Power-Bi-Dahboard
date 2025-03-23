@@ -1,8 +1,6 @@
 # Project Overview
 This Power BI dashboard provides a comprehensive analysis of Amazon Sales Data with interactive visualizations. The dashboard enables users to explore key sales metrics, profit and loss insights, and regional performance using filters and slicers.
 ## Features
-📌 Features
-
 1️. Data Cleaning & Transformation
 
 -Performed in Power BI Query Editor
