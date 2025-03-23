@@ -3,37 +3,37 @@ This Power BI dashboard provides a comprehensive analysis of Amazon Sales Data w
 ## Features
 1️. Data Cleaning & Transformation
 
--Performed in Power BI Query Editor
+- Performed in Power BI Query Editor
 
--Removed duplicates, handled missing values, and standardized data formats.
+- Removed duplicates, handled missing values, and standardized data formats.
 
--Created calculated columns and measures for accurate insights.
+- Created calculated columns and measures for accurate insights.
 
-2️.Dashboard Visualizations
+2️. Dashboard Visualizations
 
 - Year-wise Sales Analysis: Users can filter sales data by year using a slicer.
 
--Cards:
+- Cards:
 
-Total Sales Projection
+-Total Sales Projection
 
-Total Production Units
+-Total Production Units
 
-Sales Count
+-Sales Count
 
-Return Order Count
+- Return Order Count
 
-- Pie Chart: Sum of Sales by Segment.
+  -Pie Chart: Sum of Sales by Segment.
 
-- Donut Chart: Sum of Sales by Market.
+  -Donut Chart: Sum of Sales by Market.
 
-- Map: Sales distribution across Regions.
+  -Map: Sales distribution across Regions.
 
-- Stacked Bar Chart:
+  -Stacked Bar Chart:
 
-Profit by Product Name
+  Profit by Product Name
 
-Loss by Product Name
+  Loss by Product Name
 
 - Bar Graph: Profit by Customer Name
 
